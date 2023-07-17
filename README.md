@@ -1,3 +1,11 @@
+# Notes-after-forking
+
+I'd like to append some supplements just after the masterpieces by the original author(s). All the Copyright on all the original masterpieces is still of the original author(s).
+
+Traditional Chinese Medicine is not only medicine, at most cases, but also a liftstyle, an attitube, and even the philosophy.
+
+----
+
 # Notes-of-Chinese-Medicine
 
 Copyright（C） 2017-2023 Amika
